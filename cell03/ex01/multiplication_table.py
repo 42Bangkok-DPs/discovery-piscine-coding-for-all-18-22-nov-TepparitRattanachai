@@ -3,6 +3,6 @@ while Teue:
     if a == a:
         for i in range(0,10):
             print(f"{1} * {a} = {a * i}")
-        break
+        breakip
     else:
         print("Error")
